@@ -583,6 +583,22 @@ button:hover{
 .social .copy {
   font-size: 0.9rem;
   font-weight: 300;
-  color: #838994;
-  
+  color: #838994; 
+}
+@media only screen and (max-width: 500px) {
+    .top-navigation {
+        padding: 3em 0;
+    }
+    .introduction {
+       padding: 3em 0;
+        font-size: 3em;
+    }
+    .cases {
+       padding: 5em 0;
+      font-size: 1em;
+    }
+    .social {
+       padding: 3em 0;
+      font-size: 2em;
+    }
 }
