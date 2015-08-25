@@ -480,7 +480,7 @@ html {
   color: #eb382f
 }
 .introduction{
-  background-image: url('../images/computer.jpeg');
+  background-image: url('../images/computer-laptop-work-office.jpg');
   background-position: 10 bottom;
   background-repeat: no-repeat;
   background-size: cover;
@@ -491,16 +491,18 @@ html {
 .introduction h1 {
   margin-top: 17.5rem;
   font-size: 3.125rem;
+
 }
 .introduction h3 {
   margin-top: 1.25rem;
   font-size: 1.45rem;
 }
 .introduction h1, .introduction h3 {
-  color: black;
+  color: white;
   font-family: 'Roboto', sans-serif;
   text-align: center;
   font-weight: 300;
+
 }
 
 .introduction .buttons {
@@ -566,7 +568,7 @@ button:hover{
   padding: 0.625rem 0;
   text-align: center;
 }
-.social .icons> li:hover {
+.social .icons > li:hover {
   cursor: pointer;
 }
 .social .twitter {
